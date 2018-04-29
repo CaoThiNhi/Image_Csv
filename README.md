@@ -24,5 +24,5 @@ Eg: ./raw2img 04015
 * To convert image to csv:
 ```
 python img2csv.py '<full path to file>'
-Eg: python img2csv.py '/Users/truongnm/Downloads/data/uploads/04015.png'
+Eg: python img2csv.py '/Users/nhict/Desktop/ecg-process/uploads/04015.png'
 ```
